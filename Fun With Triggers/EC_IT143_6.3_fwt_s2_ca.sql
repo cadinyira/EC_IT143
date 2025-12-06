@@ -1,0 +1,5 @@
+-- Step 2: My current thinking
+-- I need an AFTER UPDATE trigger that:
+-- 1. Updates LastModifiedDate to GETDATE()
+-- 2. Updates LastModifiedBy to SUSER_NAME()
+-- The trigger should fire only once per update and avoid recursion.

@@ -1,0 +1,3 @@
+-- Step 1: What is the simplest question?
+-- How do I track when a record was last modified and who modified it?
+-- Focus: Track LastModifiedDate and LastModifiedBy automatically.

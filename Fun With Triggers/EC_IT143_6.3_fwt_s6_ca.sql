@@ -1,0 +1,5 @@
+-- Step 6: What are you curious about now?
+-- How can I extend this trigger to:
+-- 1. Track last modified information for multiple tables automatically
+-- 2. Include previous values for auditing
+-- This could lead to an audit/history table design.

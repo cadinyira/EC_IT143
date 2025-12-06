@@ -1,0 +1,3 @@
+-- Step 2: My current thinking
+-- The first name is everything before the first space.
+-- Next step: Test SUBSTRING and CHARINDEX to extract it.
